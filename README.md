@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gaetan Godart from Montpellier (France)
-- 👀 I’m interested in C, C++, Python, embedded development, cybersecurity, AI, ML.
-- 🌱 I’m currently finishing my master degree in embedded electronic systems.
-- 💞️ I’m looking to work in programming around the world (preference for Europe, Asia or full remote).
+- 👋 Hi, I’m Gaetan Godart from Montpellier (France) but I move a lot 😊
+- 👀 I’m looking to work in programming around the world (preference for Australia, Switzerland or full remote).
+- 🎓 I finishd my master degree in embedded electronic systems.
+- 💞️ I’m interested in C, C++, Python, embedded development, cybersecurity, AI, ML.
 - 📫 How to reach me at GodartGaetanRomain@gmail.com
 
 <!---
